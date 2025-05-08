@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anirud-Sukumar
+- 👋 Hi, I’m @Devgearhead
 - 👀 I’m interested in trying out few html and js projects but i do not have enough xp 
 
 <!---
